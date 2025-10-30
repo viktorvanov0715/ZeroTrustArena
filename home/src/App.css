@@ -1,0 +1,11 @@
+#root {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #0f172a 0%, #1f2937 35%, #f8fafc 100%);
+  color: #0f172a;
+}
